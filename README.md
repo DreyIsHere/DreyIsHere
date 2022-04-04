@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DreyIsHere
-- 👀 I’m interested in FNF Modding or making art
-- 🌱 I’m currently learning Haxe
-- 💞️ I’m looking to collaborate on FNF Mods
+
 - 📫 How to reach me dm me on Twitter: Dreyisnothere9 my email is personal.
 
 <!---
