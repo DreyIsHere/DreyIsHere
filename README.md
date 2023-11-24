@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DreyIsHere
 
 - 📫 How to reach me dm me on Twitter: Dreyisnothere9 my email is personal.
-![](https://github.com/Gif/troll-pilled.gif)
+  ![](https://github.com/DreyIsHere/DreyIsHere/blob/main/troll-pilled.gif)
 
 <!---
 DreyIsHere/DreyIsHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
