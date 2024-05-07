@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DreyIsHere
 
-- 📫 How to reach me dm me on Twitter: Dreyisnothere9 my email is personal.
+- 📫 How to reach me dm me on Twitter: @dwanims my email is personal.
   ![](https://github.com/DreyIsHere/DreyIsHere/blob/main/troll-pilled.gif)
 
 <!---
